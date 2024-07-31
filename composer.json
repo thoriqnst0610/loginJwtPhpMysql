@@ -1,0 +1,13 @@
+{
+    "name": "thoriq/thoriq",
+    "description": "thoriq",
+    "type": "project",
+    "authors": [
+        {
+            "name": "thoriq"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^6.10"
+    }
+}
